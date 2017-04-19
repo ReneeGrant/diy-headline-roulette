@@ -3,9 +3,9 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = 'cts0mgqa4om51l82';
     // Either provide full API query here or include options below
-    var apiQuery = '';
+    var apiQuery = 'plague sydney';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
     var keywords = '';
